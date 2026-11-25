@@ -225,9 +225,9 @@
    "to": "cl-4",
    "new_id": "cl-4.domain-registrars@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready (waits for Dinis's own word before anything is disabled)",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Services__Domain-Registrars/blob/dev/docs/restart.md",
    "new_session": null
   },
   {
