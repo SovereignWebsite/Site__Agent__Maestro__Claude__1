@@ -214,9 +214,9 @@
    "to": "cl-4",
    "new_id": "cl-4.oscar@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready (sites.a confirmed)",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Sport__Padel__Oscar/blob/dev/docs/keeper/restart.md",
    "new_session": null
   },
   {
