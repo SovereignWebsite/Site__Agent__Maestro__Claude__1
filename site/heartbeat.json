@@ -1,0 +1,23 @@
+{
+  "v": 1,
+  "at": "2026-11-25T18:04Z",
+  "account": "cl-1",
+  "agent": "cl-1.maestro@dinis",
+  "state": "working",
+  "room": {
+    "status": "allowed_warning",
+    "resets_at": "2026-11-29T20:00Z",
+    "overage": false,
+    "used_pct": 81
+  },
+  "work": {
+    "working": 3,
+    "blocked": 9
+  },
+  "asks": {
+    "count": 6,
+    "link": "https://maestro.agents.sovereignweb.site/factory/dinis-cruz/account-a/today/"
+  },
+  "note": "Renaming to cl-1.maestro; 14 account homes made; heartbeat started.",
+  "next_by": "2026-11-25T20:04Z"
+}
