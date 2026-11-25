@@ -137,7 +137,7 @@
    "to": "cl-4",
    "new_id": "cl-4.uk-driving-test@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "notes pushed; waits for Dinis's word directly",
+   "step": "ready (sites.a confirmed)",
    "requested_at": "2026-11-25T18:45Z",
    "restart": "https://github.com/SovereignWebsite/Site__Tool__UK-Driving-Test/blob/dev/docs/keeper/restart.md",
    "new_session": null
@@ -148,7 +148,7 @@
    "to": "cl-4",
    "new_id": "cl-4.startup-grants@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "notes pushed; waits for confirmation from Dinis or sites.a",
+   "step": "ready (sites.a confirmed)",
    "requested_at": "2026-11-25T18:45Z",
    "restart": "https://github.com/SovereignWebsite/Site__Tool__Startup-Grants/blob/dev/restart.md",
    "new_session": null
@@ -181,9 +181,9 @@
    "to": "cl-4",
    "new_id": "cl-4.apple@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready (sites.a confirmed)",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Platform__Apple/blob/dev/docs/handover/restart.md",
    "new_session": null
   },
   {
