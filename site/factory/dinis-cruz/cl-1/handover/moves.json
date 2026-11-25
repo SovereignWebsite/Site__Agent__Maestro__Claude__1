@@ -27,9 +27,9 @@
    "to": "cl-3",
    "new_id": "cl-3.mail.dev@AgentiCCells.dinis",
    "wave": 2,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Tool__Google__Gmail/blob/dev/docs/keeper/mail.dev.a/restart.md",
    "new_session": null
   },
   {
