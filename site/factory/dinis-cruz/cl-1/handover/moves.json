@@ -1,6 +1,6 @@
 {
  "about": "Tracker for moving account A's agents to other accounts (brief: 2026-11-25-moves.md beside this file). Steps per agent: requested -> ready (its restart.md pushed, link here) -> started (new session on the target account, its id here) -> confirmed (new session running with its own key) -> old wake off -> old archived. Goal (Dinis, 25 Nov ~18:50 UTC): every one of them running on another account within a couple of hours, by tomorrow at the latest.",
- "updated": "2026-11-25T18:50Z",
+ "updated": "2026-11-25T18:52Z",
  "target_by": "2026-11-26T12:00Z",
  "needs_dinis": [
   "in a.sites's session (the keepers' commissioning session): 'the moves to cl-4 are my word; tell your keepers' (several keepers rightly want it from you, not from a sub-agent)",
@@ -82,9 +82,9 @@
    "to": "cl-4",
    "new_id": "cl-4.sites@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Agent__Sites/blob/dev/site/factory/dinis-cruz/account-a/restart.md",
    "new_session": null
   },
   {
