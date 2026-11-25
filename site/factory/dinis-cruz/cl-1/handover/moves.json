@@ -3,6 +3,7 @@
  "updated": "2026-11-25T18:50Z",
  "target_by": "2026-11-26T12:00Z",
  "needs_dinis": [
+  "in a.sites's session (the keepers' commissioning session): 'the moves to cl-4 are my word; tell your keepers' (several keepers rightly want it from you, not from a sub-agent)",
   "in c.maestro's session: 'start the agents cl-1.maestro hands over' (cl-3: a.drive first, then the mail pair)",
   "in b.maestro's session: the same, for cl-2 (the CRM team)",
   "in d.maestro's session: the same, for cl-4 (sites, design, website, keepers)",
@@ -15,9 +16,9 @@
    "to": "cl-3",
    "new_id": "cl-3.drive@SovereignWebsite.dinis",
    "wave": 1,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Tool__Google__Drive/blob/dev/site/factory/dinis-cruz/account-a/restart.md",
    "new_session": null
   },
   {
@@ -37,9 +38,9 @@
    "to": "cl-3",
    "new_id": "cl-3.mail.conductor@AgentiCCells.dinis",
    "wave": 2,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/AgentiCCells/AgentiCCells__Cell__Email/blob/work/mail.conductor.a/team/mail.conductor.a/agent-area/site/factory/dinis-cruz/account-a/mail.conductor.a/restart.md",
    "new_session": null
   },
   {
@@ -48,9 +49,9 @@
    "to": "cl-2",
    "new_id": "cl-2.crm.dev@SovereignWebsite.dinis",
    "wave": 3,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/AgentiCCells/AgentiCCells__Cell__Email/blob/work/crm.dev.a/crm/handover/restart.md",
    "new_session": null
   },
   {
@@ -70,9 +71,9 @@
    "to": "cl-2",
    "new_id": "cl-2.crm.studio@SovereignWebsite.dinis",
    "wave": 3,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Agent__CRM/blob/dev/site/factory/dinis-cruz/account-a/a.crm.studio/restart.md",
    "new_session": null
   },
   {
@@ -103,9 +104,9 @@
    "to": "cl-4",
    "new_id": "cl-4.website@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/SovereignWebsite__Website/blob/dev/docs/keeper/restart.md",
    "new_session": null
   },
   {
@@ -114,9 +115,9 @@
    "to": "cl-4",
    "new_id": "cl-4.sites.pages@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "notes pushed; waits for Dinis's word directly (a successor must make a new lane recipient key and a new QR for Dinis)",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Agent__Sites/blob/dev/site/factory/dinis-cruz/account-a/sites-pages/restart.md",
    "new_session": null
   },
   {
@@ -125,9 +126,9 @@
    "to": "cl-4",
    "new_id": "cl-4.tauguard@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Company__TauGuard/blob/dev/docs/agent/restart.md",
    "new_session": null
   },
   {
@@ -136,9 +137,9 @@
    "to": "cl-4",
    "new_id": "cl-4.uk-driving-test@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "notes pushed; waits for Dinis's word directly",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Tool__UK-Driving-Test/blob/dev/docs/keeper/restart.md",
    "new_session": null
   },
   {
@@ -147,9 +148,9 @@
    "to": "cl-4",
    "new_id": "cl-4.startup-grants@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "notes pushed; waits for confirmation from Dinis or sites.a",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Tool__Startup-Grants/blob/dev/restart.md",
    "new_session": null
   },
   {
@@ -158,9 +159,9 @@
    "to": "cl-4",
    "new_id": "cl-4.london-agentics@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Organisation__Agentics-Foundation__London/blob/dev/docs/agent/london-agentics.a/restart.md",
    "new_session": null
   },
   {
@@ -169,7 +170,7 @@
    "to": "cl-4",
    "new_id": "cl-4.github-tool@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "not started: waits for Dinis or sites.a; needs a private place for notes and the steps in a message",
    "requested_at": "2026-11-25T18:45Z",
    "restart": null,
    "new_session": null
@@ -191,9 +192,9 @@
    "to": "cl-4",
    "new_id": "cl-4.puter@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Platform__Puter/blob/dev/docs/keeper/restart.md",
    "new_session": null
   },
   {
@@ -202,9 +203,9 @@
    "to": "cl-4",
    "new_id": "cl-4.nvidia@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Platform__NVIDIA/blob/dev/docs/keeper/restart.md",
    "new_session": null
   },
   {
@@ -246,7 +247,7 @@
    "to": "cl-4",
    "new_id": "cl-4.ben-fung@SovereignWebsite.dinis (one of the two)",
    "wave": 4,
-   "step": "requested",
+   "step": "nothing to hand over (a.ben-fung holds the work)",
    "requested_at": "2026-11-25T18:45Z",
    "restart": null,
    "new_session": null
@@ -257,9 +258,9 @@
    "to": "cl-4",
    "new_id": "cl-4.ben-fung@SovereignWebsite.dinis (one of the two)",
    "wave": 4,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Manager__Ben-Fung/blob/dev/docs/agent/restart.md",
    "new_session": null
   }
  ],
