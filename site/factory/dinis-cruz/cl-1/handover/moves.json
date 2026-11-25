@@ -1,0 +1,277 @@
+{
+ "about": "Tracker for moving account A's agents to other accounts (brief: 2026-11-25-moves.md beside this file). Steps per agent: requested -> ready (its restart.md pushed, link here) -> started (new session on the target account, its id here) -> confirmed (new session running with its own key) -> old wake off -> old archived. Goal (Dinis, 25 Nov ~18:50 UTC): every one of them running on another account within a couple of hours, by tomorrow at the latest.",
+ "updated": "2026-11-25T18:50Z",
+ "target_by": "2026-11-26T12:00Z",
+ "needs_dinis": [
+  "in c.maestro's session: 'start the agents cl-1.maestro hands over' (cl-3: a.drive first, then the mail pair)",
+  "in b.maestro's session: the same, for cl-2 (the CRM team)",
+  "in d.maestro's session: the same, for cl-4 (sites, design, website, keepers)",
+  "which Ben Fung keeper to keep"
+ ],
+ "agents": [
+  {
+   "agent": "a.drive",
+   "old_session": "session_018yvwtN7wkRUTty3K9CRhfv",
+   "to": "cl-3",
+   "new_id": "cl-3.drive@SovereignWebsite.dinis",
+   "wave": 1,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "a.mail.dev",
+   "old_session": "session_018yvwtQtFZjm6Q291BnjYgY",
+   "to": "cl-3",
+   "new_id": "cl-3.mail.dev@AgentiCCells.dinis",
+   "wave": 2,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "a.mail.conductor",
+   "old_session": "session_018yvwtMYgkoAUw5KsJTYT8s",
+   "to": "cl-3",
+   "new_id": "cl-3.mail.conductor@AgentiCCells.dinis",
+   "wave": 2,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "a.crm.dev",
+   "old_session": "session_018yvwtNP466yYif3yWt3Ybr",
+   "to": "cl-2",
+   "new_id": "cl-2.crm.dev@SovereignWebsite.dinis",
+   "wave": 3,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "a.crm.design",
+   "old_session": "session_018yvwtPdmQ2A59vcaf11mNy",
+   "to": "cl-2",
+   "new_id": "cl-2.crm.design@SovereignWebsite.dinis",
+   "wave": 3,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "a.crm.studio",
+   "old_session": "session_018yvwtLdrmYA9n9KshCtiYv",
+   "to": "cl-2",
+   "new_id": "cl-2.crm.studio@SovereignWebsite.dinis",
+   "wave": 3,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "a.sites",
+   "old_session": "session_018yvwtQ7z3PUt9L5gpZCNzt",
+   "to": "cl-4",
+   "new_id": "cl-4.sites@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "a.design",
+   "old_session": "session_018yvwtMKHMBUBwQFbXVLVzn",
+   "to": "cl-4",
+   "new_id": "cl-4.design@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "website.a",
+   "old_session": "session_018yvwtP1YZi2CGTZUdSyE8q",
+   "to": "cl-4",
+   "new_id": "cl-4.website@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "sites-pages.a",
+   "old_session": "session_018yvwtPxpt5EDqNmEgLwpKV",
+   "to": "cl-4",
+   "new_id": "cl-4.sites.pages@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "tauguard.a",
+   "old_session": "session_018yvwtN7yEdELAJzf5qHfEt",
+   "to": "cl-4",
+   "new_id": "cl-4.tauguard@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "uk-driving-test.a",
+   "old_session": "session_018yvwtNECHdUKSwpC27FFJg",
+   "to": "cl-4",
+   "new_id": "cl-4.uk-driving-test@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "startup-grants.a",
+   "old_session": "session_018yvwtLncdL4FKwnYNpqFHY",
+   "to": "cl-4",
+   "new_id": "cl-4.startup-grants@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "london-agentics.a",
+   "old_session": "session_018yvwtMVWFdYp42B45qLWiJ",
+   "to": "cl-4",
+   "new_id": "cl-4.london-agentics@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "github-tool.a",
+   "old_session": "session_018yvwtR4jMETPfBD6odJjbR",
+   "to": "cl-4",
+   "new_id": "cl-4.github-tool@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "apple.a",
+   "old_session": "session_018yvwtMgcVvXzU5RNZ7M2Qj",
+   "to": "cl-4",
+   "new_id": "cl-4.apple@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "puter.a",
+   "old_session": "session_018yvwtR4NHV58Q5LtzMcaFQ",
+   "to": "cl-4",
+   "new_id": "cl-4.puter@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "nvidia.a",
+   "old_session": "session_018yvwtP7ZD1uKjc4SanYNSh",
+   "to": "cl-4",
+   "new_id": "cl-4.nvidia@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "oscar.a",
+   "old_session": "session_018yvwtR6ZF1gnjswENHqA2p",
+   "to": "cl-4",
+   "new_id": "cl-4.oscar@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "domain-registrars.a",
+   "old_session": "session_018yvwtQDzwZJMsPiQ4p9rSh",
+   "to": "cl-4",
+   "new_id": "cl-4.domain-registrars@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "one-human-nine-agents.a",
+   "old_session": "session_018yvwtNfpegfLMBhUK1FCxb",
+   "to": "cl-4",
+   "new_id": "cl-4.one-human-nine-agents@SovereignWebsite.dinis",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "ben-fung.a",
+   "old_session": "session_018yvwtQ3i4LpWvMMuF9fCYr",
+   "to": "cl-4",
+   "new_id": "cl-4.ben-fung@SovereignWebsite.dinis (one of the two)",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  },
+  {
+   "agent": "a.ben-fung",
+   "old_session": "session_018yvwtNDFVPqtbGhRxqxoZ1",
+   "to": "cl-4",
+   "new_id": "cl-4.ben-fung@SovereignWebsite.dinis (one of the two)",
+   "wave": 4,
+   "step": "requested",
+   "requested_at": "2026-11-25T18:45Z",
+   "restart": null,
+   "new_session": null
+  }
+ ],
+ "staying_on_a": [
+  "cl-1.maestro (this session, to be replaced by a fresh one on A)",
+  "router.a (becoming cl-1.router)",
+  "a.factory (becoming cl-1.infra)",
+  "a.devops",
+  "a.feedback",
+  "a.ios",
+  "a.instagram (until cl-8 runs)",
+  "the AWS programme (idle, wakes off)",
+  "observability drain (every 3 h)"
+ ]
+}

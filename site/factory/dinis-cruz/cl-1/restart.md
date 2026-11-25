@@ -13,6 +13,8 @@ cl-1.maestro@dinis (formerly a.maestro, account A) is Dinis Cruz's maestro on ac
 
 ## What's in flight (read these)
 
+- **First, the moves tracker:** site/factory/dinis-cruz/cl-1/handover/moves.json. Goal: every moving agent running on its new account by 26 Nov 12:00 UTC. At each wake, read each agent's area, advance its step, and list what still needs Dinis.
+
 - **Moving account A's teams to cl-2, cl-3 and cl-4:** site/factory/dinis-cruz/cl-1/handover/2026-11-25-moves.md (this repository). Wind-down requests went to 23 sessions at about 18:45 UTC. Collect their "ready to hand over" replies; the target maestros start the new sessions at Dinis's word in their own sessions. a.drive to cl-3 goes first.
 - **The naming model:** Site__Agent__Maestro site/factory/dinis-cruz/account-a/notes/2026-11-25-naming-model.md.
   - Done: IaC PR 4 merged; homes exist for Claude 1, 2, 3, 4, 5 (Angelo), 6 and 8, and routers for ChatGPT 1 and Mistral 1.
