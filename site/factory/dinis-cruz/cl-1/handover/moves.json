@@ -93,9 +93,9 @@
    "to": "cl-4",
    "new_id": "cl-4.design@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Agent__Design/blob/dev/site/factory/dinis-cruz/account-a/a.design/restart.md",
    "new_session": null
   },
   {
