@@ -1,6 +1,6 @@
 {
   "v": 1,
-  "at": "2026-11-25T18:04Z",
+  "at": "2026-11-25T20:24Z",
   "account": "cl-1",
   "agent": "cl-1.maestro@dinis",
   "state": "working",
@@ -8,16 +8,16 @@
     "status": "allowed_warning",
     "resets_at": "2026-11-29T20:00Z",
     "overage": false,
-    "used_pct": 81
+    "used_pct": 90
   },
   "work": {
-    "working": 3,
-    "blocked": 9
+    "working": 1,
+    "blocked": 5
   },
   "asks": {
-    "count": 6,
-    "link": "https://maestro.agents.sovereignweb.site/factory/dinis-cruz/account-a/today/"
+    "count": 4,
+    "link": "https://github.com/SovereignWebsite/Site__Agent__Maestro__Claude__1/blob/dev/site/factory/dinis-cruz/cl-1/handover/moves.json"
   },
-  "note": "Renaming to cl-1.maestro; 14 account homes made; heartbeat started.",
-  "next_by": "2026-11-25T20:04Z"
+  "note": "Handing over to a fresh cl-1.maestro (protocol v1); 21 of 23 agents ready to move.",
+  "next_by": "2026-11-26T04:24Z"
 }
