@@ -236,9 +236,9 @@
    "to": "cl-4",
    "new_id": "cl-4.one-human-nine-agents@SovereignWebsite.dinis",
    "wave": 4,
-   "step": "requested",
+   "step": "ready (sites.a confirmed)",
    "requested_at": "2026-11-25T18:45Z",
-   "restart": null,
+   "restart": "https://github.com/SovereignWebsite/Site__Author__Dinis__One-Human-Nine-Agents/blob/dev/docs/keeper/restart.md",
    "new_session": null
   },
   {
